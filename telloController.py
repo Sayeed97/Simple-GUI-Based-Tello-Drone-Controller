@@ -12,7 +12,7 @@ takeoff = True #takeoff status
 master = tk.Tk() #instantiation of Tkinter class
 drone = tello.Tello() #instantiation of Tello class
 
-master.title("Tello Drone GUI") #window title
+master.title("Tello Drone GUI") #GUI window title
 
 #callback function for setting dist and angle
 def parameter_sel():
