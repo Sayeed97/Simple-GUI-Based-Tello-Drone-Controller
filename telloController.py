@@ -66,7 +66,7 @@ button3.pack()
 print("Drone standard distance: ", dist)
 print("Drone standard angle: ", angle)
 
-#defining a callback function for the Tello drone controller 
+#defining a callback function for the Listener function
 def release_callback(key):
     global takeoff
     global stream
