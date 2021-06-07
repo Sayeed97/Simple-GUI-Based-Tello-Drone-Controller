@@ -1,7 +1,7 @@
-# Brief: 
+# Brief
 Tello Drone is an impressive and programmable drone perfect for education. You can easily learn programming languages such as Scratch, Python, and Swift. A simple GUI was implemented to control the drone movement, direction, angle, takeoff, land and camera. The above was done by getting the user input through a text box and by writing a call back functions for dedicated buttons. 
 
-# Tested Environment: 
+# Tested Environment
 The program was tested in Spyder environment (Python3).
 
 # Tello Drone Features: 
@@ -12,7 +12,7 @@ The program was tested in Spyder environment (Python3).
 - Mulitple Flight Modes 
 - SDK Support
 
-# Libraries Used: 
+# Libraries Used
 
 ```
    Library for drone control: eastTello
@@ -25,7 +25,7 @@ The program was tested in Spyder environment (Python3).
 - pip command to install pynput is `pip install pynput`
 - pip command to install sys is `pip install os-sys`
 
-# Code Sequence: 
+# Code Sequence
 - Declared the required variables
 - Instantiated all the required classes
 - Wrote call back functions for dedicated buttons
@@ -35,7 +35,7 @@ The program was tested in Spyder environment (Python3).
 - Start the keyboard listener thread
 - Start the tkinter GUI master mainloop
 
-# How to run the code: 
+# How to run the code
 The code should be able to run in any python3 environment. 
 
 Run *telloController.py*
