@@ -38,4 +38,6 @@ The program was tested in Spyder environment (Python3).
 # How to run the code: 
 The code should be able to run in any python3 environment. 
 
+Run *telloController.py*
+
 Note: Before you run the code make sure you have your tello drone connected with your laptop WiFi. 
