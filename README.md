@@ -4,7 +4,7 @@ Tello Drone is an impressive and programmable drone perfect for education. You c
 # Tested Environment
 The program was tested in Spyder environment (Python3).
 
-# Tello Drone Features: 
+# Tello Drone Features
 - 720 HD Transmission
 - 5 MP Camera 
 - 13 min Flight Time
